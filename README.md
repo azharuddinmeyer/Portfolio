@@ -1,31 +1,44 @@
-# Portfolio
+# Azharuddin Meyer | Portfolio
 
-Your starting portfolio, to iterate on.
+Welcome to my GitHub Portfolio! I'm Azharuddin Meyer, a dedicated professional.This portfolio highlights my journey, projects, skills, and areas of interest. Explore my work, learn about my skills, and feel free to reach out!
 
-## Learning Objectives
+---
 
-- Customise the starting portfolio with your professional details
-- Iterate on your portfolio every module
-- Review your colleague's portfolio
+## 📋 About Me
 
-## Requirements
+- **Name:** Azharuddin Meyer
+- **Location:** Cape Town, South Africa
+- **Interests:** Technology, Sports, reading, photography, travel
 
-At Code Your Future, we expect everyone to graduate with a unique professional portfolio. Begin building this portfolio as soon as you begin our Software Development Course. At first, your portfolio will be a simple HTML/CSS page deployed to Github Pages or Netlify. This is your MVP.
+## 🛠️ Skills
 
-Every module, you will _iterate_ on your portfolio, adding a new project and improving your design and presentation. By the time you apply to Final Projects, your portfolio will help you show you are ready to be accepted on to a Final Projects team.
+- Problem-solving and analytical thinking.
+- Strong organizational and time management.
+- Data Analysis
+- Communication and teamwork
+- Attention to detail
 
-## Acceptance Criteria
+---
 
-- [ ] My portfolio introduces me and my work
-- [ ] The design and code is my own, not a template or tutorial
-- [ ] Each project is linked to my code on Github and the deployed project
-- [ ] I have published my professional contact information on my portfolio
-- [ ] My Accessibility and SEO scores are 100 on Lighthouse
-- [ ] My portfolio is deployed
-- [ ] I have replaced this README with one that describes my own portfolio
+## 📁 Projects
 
-## Resources
+Here are some key projects and contributions that demonstrate my skills and experience.
 
-- [Josh Comeau on building your early career profile](https://www.youtube.com/watch?v=OXiaEXfkAec)
-- [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
-- [CYF Graduate Module](https://module-graduates.codeyourfuture.io/)
+### Project 1: My Hometown Website
+
+### Project 2: Space Exploration Website
+
+### Project 3: GIFt Website
+
+---
+
+
+## 📫 Contact Me
+
+Feel free to connect with me for opportunities or collaborations!
+
+- **Email:** [azharuddinmeyer92@gmail.com](mailto:azharuddinmeyer92@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com) *(https://www.linkedin.com/in/azharuddin-meyer-691ba2201/)
+---
+
+Thank you for visiting my portfolio! Looking forward to connecting with you.
