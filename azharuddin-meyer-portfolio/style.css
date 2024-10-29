@@ -1,0 +1,80 @@
+/* Design tokens */
+:root {
+  /* --paper: hsla(251, 28%, 88%, 0.99); */
+
+  --clr-dark: #070a13;
+  --clr-light: #f1f5f9;
+  --clr-slate400: #94a3b8;
+  --clr-slate600: #475569;
+  --clr-slate800: #1e293b;
+  --clr-green: #a3e635;
+  --clr-lightgreen: #d9f99d;
+  --ink: hsla(244, 16%, 17%, 0.95);
+  --brand: hsla(0, 79%, 63%, 0.9);
+  --font: "Raleway", system-ui, sans-serif;
+  --gap: 20px;
+  --container: clamp(280px, calc(100vw - calc(var(--gap) * 2)), 1180px);
+}
+/* General Styles */
+
+header {
+  color: var(--clr-slate400);
+}
+
+.subheader {
+  color: var(--clr-green);
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  background: var(--clr-dark);
+  color: var(--clr-light);
+  font-family: var(--font);
+}
+body {
+  display: grid;
+  margin: auto;
+  min-height: 100vh;
+  gap: var(--gap);
+  max-width: var(--container);
+}
+a,
+a:any-link {
+  color: currentColor;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color ease-in-out 0.3s;
+}
+a:hover,
+a:focus {
+  color: var(--clr-green);
+  border-color: currentColor;
+}
+/* Site header and navigation */
+body > header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.links {
+  margin: 5px;
+}
+
+strong {
+  color: var(--clr-green);
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: var(--gap);
+}
+
+/* Text readability */
+section p {
+  line-height: 1.5;
+  max-width: 55ch;
+}
