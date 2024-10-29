@@ -38,7 +38,7 @@ Here are some key projects and contributions that demonstrate my skills and expe
 Feel free to connect with me for opportunities or collaborations!
 
 - **Email:** [azharuddinmeyer92@gmail.com](mailto:azharuddinmeyer92@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com) *(https://www.linkedin.com/in/azharuddin-meyer-691ba2201/)
+- **LinkedIn:** (https://www.linkedin.com/in/azharuddin-meyer-691ba2201/)
 ---
 
 Thank you for visiting my portfolio! Looking forward to connecting with you.
